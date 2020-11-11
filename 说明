@@ -1,3 +1,3 @@
 @echo off
 cd C:\UnblockNeteaseMusic-master\UnblockNeteaseMusic-master
-node app.js -p 端口 -f 服务器IP
+node app.js -p 端口 -f 59.111.181.38
